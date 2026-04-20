@@ -1,3 +1,4 @@
 # Unit 5 Reflection
-
-[Reflect on your journey here]
+In this CSS unit, I learned how to style web pages using internal styles, inline styles, and different CSS rules for text, colors, images, and layout. Before using CSS, my webpage only had plain HTML content, which looked simple and boring.
+After adding fonts, colors, backgrounds, and image styling, I was really happy to see my website finally look clean and visually appealing. It was not as easy as I thought—small details like sizing images correctly, choosing matching colors, and keeping the design consistent took patience and practice.
+Overall, this unit showed me how much CSS can improve a website’s appearance. It feels rewarding to make a page look good on my own, and I understand now why good design takes effort.

@@ -1,3 +1,4 @@
 # Unit 3 Reflection
-
-[Reflect on your journey here]
+In Unit 3, I learned how to work on a web page project from the client’s perspective. The lessons walked me through the whole process: understanding the project overview, selecting a client, preparing for an interview, defining the problem, brainstorming ideas, and finally building the client’s page.
+The most important thing I realized in this unit is how critical it is to design the website around the client’s needs and preferences. Before, I only thought about how the page should look to me. Now I understand that the goal is to make something that truly reflects the client’s interests, purpose, and audience. For example, for my marine educator client, I chose simple, clear text, educational lists, and relevant images because that’s what would help their students learn best.
+Overall, this unit taught me that building a website isn’t just about writing code—it’s about understanding who you’re building it for. I feel more confident working on real-world projects and excited to keep improving my client-focused design skills.
