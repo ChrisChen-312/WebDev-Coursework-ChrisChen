@@ -1,2 +1,5 @@
 # Unit 6 Reflection
-
+In Unit 6, I deepened my understanding of client-focused web design by learning to gather feedback, iterate on my work, and polish a webpage to meet a client’s needs. I reviewed the design thinking process and practiced the testing phase, realizing that a good site is not built once but improved through continuous feedback.
+I mastered how to add and style links using the <a> tag in HTML and CSS. I learned to style links with colors, remove underlines, and add hover effects, ensuring they fit the page’s design while remaining user-friendly. I also polished the webpage by styling images with borders and rounded corners, using the <span> tag to highlight key text, and adding a favicon—small touches that made the site feel more professional.
+Most importantly, I practiced gathering client feedback. I asked clear questions, noted the client’s suggestions, and made adjustments based on their input. This taught me to prioritize the client’s vision and user experience over my own preferences. By the end of the unit, I could turn a basic HTML page into a polished, functional site that truly served its purpose.
+This unit showed me that web design is a cycle of creation, feedback, and improvement. I feel more confident in my ability to build client-centered websites and to refine my work to create better experiences for users.

@@ -9,6 +9,7 @@ What is one change you would suggest to improve the page?
 Is the information organized clearly with lists and headings?
 Do the colors and design feel calm and suitable for an educational site?
 How well does this website meet your goal of teaching students about cephalopods?
+
 Part 2: Client Feedback (My Client’s Responses)
 My first impression is that the website looks clean, friendly, and professional.
 I would describe it as clear, calm, and educational.
@@ -20,6 +21,7 @@ I suggest making the images slightly smaller so the page is not too long.
 Yes, the headings and lists make the information very easy to follow.
 The light blue and soft colors feel calm and fit the ocean theme well.
 This page meets my goal really well — it’s informative and visually appealing.
+
 Part 3: What I Learned & Changes I Made
 From the client’s feedback, I noticed they wanted slightly smaller images and easier-to-read text. I also saw that they enjoyed the clean, calm design.
 I made these improvements:
