@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Adaptive Design - Cephalopods</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        .box {
+            width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #003366;
+            text-align: center;
+        }
+
+        h2 {
+            color: #006699;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 20px;
+            border: 4px solid #005588;
+        }
+
+        /* Fixed Breakpoints for Adaptive */
+        @media (max-width: 1200px) {
+            .box { width: 900px; }
+        }
+        @media (max-width: 900px) {
+            .box { width: 600px; }
+            body { background: #e6f7ff; }
+        }
+        @media (max-width: 600px) {
+            .box { width: 100%; padding: 10px; }
+            h1 { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Adaptive: Ocean Cephalopods</h1>
+        <h2>Octopus</h2>
+        <img src="https://picsum.photos/id/1002/600/400" alt="Octopus">
+        <p>Octopuses are smart and can change color.</p>
+
+        <h2>Squid</h2>
+        <img src="https://picsum.photos/id/1003/600/400" alt="Squid">
+        <p>Squids live in groups and swim very fast.</p>
+    </div>
+</body>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Responsive Design - Cephalopods</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #003366;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #006699;
+            margin: 15px 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 20px;
+            border: 4px solid #005588;
+            margin: 10px 0;
+        }
+
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .card {
+            flex: 1 1 300px;
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* Media Query for Mobile */
+        @media (max-width: 768px) {
+            body {
+                background: #e6f7ff;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            .card {
+                flex: 1 1 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Responsive: Ocean Cephalopods</h1>
+        <div class="grid">
+            <div class="card">
+                <h2>Octopus</h2>
+                <img src="https://picsum.photos/id/1002/600/400" alt="Octopus">
+                <p>8 arms, very intelligent.</p>
+            </div>
+            <div class="card">
+                <h2>Squid</h2>
+                <img src="https://picsum.photos/id/1003/600/400" alt="Squid">
+                <p>Fast swimmer, 10 tentacles.</p>
+            </div>
+            <div class="card">
+                <h2>Cuttlefish</h2>
+                <img src="https://picsum.photos/id/1004/600/400" alt="Cuttlefish">
+                <p>W-shaped pupils, masters of camouflage.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
