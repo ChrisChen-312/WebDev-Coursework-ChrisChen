@@ -1,3 +1,2 @@
 # Unit 10 Reflection
-
-[Reflect on your journey here]
+In Unit 10, I learned how to combine HTML, CSS, and JavaScript to build functional, multi-page websites with consistent navigation. I practiced creating responsive navigation bars using media queries, which helped me understand how users move between pages. I also studied key web design principles like visual hierarchy, consistency, and color theory, which taught me how to make sites more intuitive and visually appealing. These lessons showed me that coding is not just about writing lines, but about solving problems and improving user experience. I now feel more confident in building websites that are both functional and well-designed.
