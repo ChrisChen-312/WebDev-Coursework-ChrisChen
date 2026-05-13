@@ -1,3 +1,3 @@
 # Unit 9 Reflection
-
-[Reflect on your journey here]
+In Unit 9, I was introduced to JavaScript and how it adds interactivity to websites. I learned what JavaScript is and why it matters for making pages feel responsive and dynamic. In Lesson 2, I practiced basic input and output, such as using alerts and functions to respond to user actions. In Lesson 3, I explored how JavaScript connects with HTML, which helped me understand how to add simple interactivity like buttons and pop-ups to my portfolio site.
+This unit showed me that web design isn’t just about static visuals—it’s about creating experiences where users can interact with the page. I now know how to write basic functions in an external JavaScript file and link them to my HTML. These skills will help me make my future projects more engaging and functional.
